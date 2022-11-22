@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "637982101caa8341b9f96cd7"
+  },
+  "TipoPerso": "Administrador",
+  "Nombre": "Juan Rosado Manchado",
+  "Genero": "Masculino",
+  "FecNac": "1990-09-09",
+  "Edad": "32",
+  "RFC": "XDF1889654778",
+  "CURP": "SDF188965477887LA7",
+  "Telefono": "963-143-76-88",
+  "Correo": "esteañoeselbueno@hotmail.com",
+  "CvDirecc": "1"
+},{
+  "_id": {
+    "$oid": "637982101caa8341b9f96cd8"
+  },
+  "TipoPerso": "Proveedor",
+  "Nombre": "Rosalia Ruedas Calles",
+  "Genero": "Femenino",
+  "FecNac": "1980-09-09",
+  "Edad": "25",
+  "RFC": "SDF1889654778",
+  "CURP": "WEF188965477887LA2",
+  "Telefono": "963-113-45-54",
+  "Correo": "daskjs@outlook.com",
+  "CvDirecc": "2"
+},{
+  "_id": {
+    "$oid": "637982101caa8341b9f96cd9"
+  },
+  "TipoPerso": "Administrador",
+  "Nombre": "Juan Rodas Menchaca",
+  "Genero": "Masculino",
+  "FecNac": "1970-09-09",
+  "Edad": "26",
+  "RFC": "ASF1889654778",
+  "CURP": "AHF188965477887LA8",
+  "Telefono": "963-114-67-73",
+  "Correo": "jfkMaster@hotmail.com",
+  "CvDirecc": "3"
+},{
+  "_id": {
+    "$oid": "637982101caa8341b9f96cda"
+  },
+  "TipoPerso": "Empleado",
+  "Nombre": "Rosario Manchado Ruedas",
+  "Genero": "Femenino",
+  "FecNac": "1990-08-08",
+  "Edad": "23",
+  "RFC": "HFF1889654778",
+  "CURP": "HTF188965477887LA3",
+  "Telefono": "963-117-43-56",
+  "Correo": "fgmovil@gmail.com",
+  "CvDirecc": "4"
+},{
+  "_id": {
+    "$oid": "637982101caa8341b9f96cdb"
+  },
+  "TipoPerso": "Empleado",
+  "Nombre": "Apolinar Calles Rosado",
+  "Genero": "Masculino",
+  "FecNac": "1980-08-08",
+  "Edad": "25",
+  "RFC": "ngvgvfcwfdc d",
+  "CURP": "d<medjbehdved v cd",
+  "Telefono": "7854692561",
+  "Correo": "4@test.com",
+  "CvDirecc": "4"
+},{
+  "_id": {
+    "$oid": "637982101caa8341b9f96cdc"
+  },
+  "TipoPerso": "Administrador",
+  "Nombre": "Rosario Alfaro Urias",
+  "Genero": "Femenino",
+  "FecNac": "1970-08-08",
+  "Edad": "68",
+  "RFC": ",enjsbsfbehsbsbf",
+  "CURP": "mjssbsdjbsjsbsdb",
+  "Telefono": "9865357458",
+  "Correo": "5test@uwu.com",
+  "CvDirecc": "1"
+},{
+  "_id": {
+    "$oid": "637982101caa8341b9f96cdd"
+  },
+  "TipoPerso": "Administrador",
+  "Nombre": "Guadalupe Ortiz Alfaro",
+  "Genero": "Femenino",
+  "FecNac": "1990-07-07",
+  "Edad": "98",
+  "RFC": "fu efyvefyv e",
+  "CURP": "sndhv d v",
+  "Telefono": "7854698523",
+  "Correo": "miku@ahhhh.com",
+  "CvDirecc": "4"
+},{
+  "_id": {
+    "$oid": "637982101caa8341b9f96cde"
+  },
+  "TipoPerso": "Cliente",
+  "Nombre": "Rosalia Calles Urias",
+  "Genero": "Femenino",
+  "FecNac": "1990-05-05",
+  "Edad": "56",
+  "RFC": "bg fr rx r",
+  "CURP": "iwe uheg eynv",
+  "Telefono": "9657458769",
+  "Correo": "correo@correo@correo.dev",
+  "CvDirecc": "2"
+},{
+  "_id": {
+    "$oid": "637982101caa8341b9f96cdf"
+  },
+  "TipoPerso": "Administrador",
+  "Nombre": "Rosario Urias Ruedas",
+  "Genero": "Femenino",
+  "FecNac": "1980-05-05",
+  "Edad": "22",
+  "RFC": "jwnugdydbwtdb",
+  "CURP": "kwjdunydgby",
+  "Telefono": "9635897456",
+  "Correo": "hagowebs@enwordpress.com",
+  "CvDirecc": "1"
+}]

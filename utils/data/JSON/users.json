@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "637bdd7c5020e1533da5c463"
+  },
+  "CvPerso": "2",
+  "Login": "admin",
+  "Password": "admin",
+  "DateStarts": {
+    "$date": {
+      "$numberLong": "1668060000000"
+    }
+  },
+  "DateEnds": {
+    "$date": {
+      "$numberLong": "1669701600000"
+    }
+  },
+  "StateAcount": "on",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c1d5b9bbf5879236b0db1"
+  },
+  "CvPerso": "637982101caa8341b9f96cd8",
+  "Login": "Rosalia",
+  "Password": "chalia",
+  "DateStarts": {
+    "$date": {
+      "$numberLong": "1668988800000"
+    }
+  },
+  "DateEnds": {
+    "$date": {
+      "$numberLong": "1669420800000"
+    }
+  },
+  "StateAcount": "on",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c1d709bbf5879236b1079"
+  },
+  "CvPerso": "637982101caa8341b9f96cdf",
+  "Login": "Rosario",
+  "Password": "charis",
+  "DateStarts": {
+    "$date": {
+      "$numberLong": "1668988800000"
+    }
+  },
+  "DateEnds": {
+    "$date": {
+      "$numberLong": "1669420800000"
+    }
+  },
+  "StateAcount": "on",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637c1d809bbf5879236b11cc"
+  },
+  "CvPerso": "637982101caa8341b9f96cdd",
+  "Login": "Guadalupe",
+  "Password": "guada",
+  "DateStarts": {
+    "$date": {
+      "$numberLong": "1668988800000"
+    }
+  },
+  "DateEnds": {
+    "$date": {
+      "$numberLong": "1669420800000"
+    }
+  },
+  "StateAcount": "on",
+  "__v": 0
+}]
